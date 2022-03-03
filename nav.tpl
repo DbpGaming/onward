@@ -1,5 +1,5 @@
 <header>
-			<a href="/" class="logo">#</a>
+			<a href="onward" class="logo">#</a>
 			<input class="side-menu" type="checkbox" id="side-menu"/>
 			<label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
 			 <nav>
