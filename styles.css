@@ -28,7 +28,7 @@ p, b {
 	color: #a89984;
 }
 
-a:link, a, h1 li{
+a:link, a, h1, li{
 	color:var(--main);
 }
 
